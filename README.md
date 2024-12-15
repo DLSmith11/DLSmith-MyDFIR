@@ -1,8 +1,9 @@
 # Hello, I'm Darren
 
 <a href="https://www.linkedin.com/in/darren-smith-6835a0339" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
+
 
 
 
