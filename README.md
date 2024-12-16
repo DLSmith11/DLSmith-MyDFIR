@@ -38,10 +38,14 @@ Certification
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity">
 </a>
 
-[Your Coursera Accomplishment Record](https://www.coursera.org/account/accomplishments/records/FMY3ISA9L8KA)
+<a href="https://www.coursera.org/account/accomplishments/records/ZP9ATQ7L3C1B" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity Certificate">
+</a>
 
 
-[Your Coursera Accomplishment Record](https://www.coursera.org/account/accomplishments/records/ZP9ATQ7L3C1B)
+<a href="https://www.coursera.org/account/accomplishments/records/ZP9ATQ7L3C1B" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity">
+</a>
 
 
     
