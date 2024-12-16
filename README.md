@@ -34,7 +34,9 @@ SIEM
   
 Certification
 
-[Your Coursera Cybersecurity Certification](https://coursera.org/share/c32879f18969af15ed3be8cec20356d1)
+<a href="https://coursera.org/share/c32879f18969af15ed3be8cec20356d1" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity">
+</a>
 
 [Your Coursera Accomplishment Record](https://www.coursera.org/account/accomplishments/records/FMY3ISA9L8KA)
 
