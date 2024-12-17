@@ -47,6 +47,9 @@ Certification
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity">
 </a>
 
+<a href="https://www.coursera.org/account/accomplishments/records/NLCCRPC9MAYE" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Connect and Protect: Networks and Network Security">
+</a>
 
     
 Projects
