@@ -16,7 +16,9 @@ My journey working in the AI spectrum has lead me to develop a passion for cyber
 
 |  Skills                                                                             | Associated Project                                                                                    |
 |-------------------------------------------------------------------------------------|-----------------------------------------                                                              |
-  Cybersecurity Analyst, IAM                                                                | <a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge/tree/main">Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge</a>|                                           
+  Cybersecurity Analyst, IAM                                                          | <a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge-" target="_blank">GitHub - Tata Group Cybersecurity Analyst Job Simulation</a>|
+
+
 
 
 
@@ -162,7 +164,7 @@ Projects
 
 
 
-<a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge/tree/main">Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge</a>
+<a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge-" target="_blank">GitHub - Tata Group Cybersecurity Analyst Job Simulation</a
 
 
 
