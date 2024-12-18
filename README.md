@@ -38,34 +38,159 @@ Certification
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity">
 </a>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="https://www.coursera.org/account/accomplishments/records/ZP9ATQ7L3C1B" target="_blank">
   <img src="https://img.shields.io/badge/Metasploit-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Metasploit Certificate">
 </a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <a href="https://www.coursera.org/account/accomplishments/records/FMY3ISA9L8KA" target="_blank">
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Foundations of Cybersecurity">
 </a>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="https://www.coursera.org/account/accomplishments/records/NLCCRPC9MAYE" target="_blank">
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Connect and Protect: Networks and Network Security">
 </a>
 
-    
-Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/RwKkimvLMkHbEHKAA/kepAuhuGGuyc5guoh_RwKkimvLMkHbEHKAA_TSZ89XJPwrZescRaB_1732634672066_completion_certificate.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Forage-Completion-green?style=for-the-badge&logo=forage&logoColor=white" alt="Forage Completion Certificate">
 </a>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_TSZ89XJPwrZescRaB_1732924822482_completion_certificate.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Forage-Completion-green?style=for-the-badge&logo=forage&logoColor=white" alt="Forage Completion Certificate">
 </a>
+    
+
+Projects
+-Ford - Digtal Intro Job Simulation (Forage)
 
 
-<a href="https://www.coursera.org/account/accomplishments/records/ZP9ATQ7L3C1B" target="_blank">
-  <img src="https://img.shields.io/badge/Metasploit-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" alt="Metasploit Certificate">
-</a> 
+
+
+
+
+
+
+
+
+
+
+
+-Tata Group - Cybersecurity Analyst Job Simulation (Forge)
+
+
+
+
+
+
+
+
+
+
+-SIEM Detection Lab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Microsoft Azure Detection Project
+
+
+
+
 
 
 
