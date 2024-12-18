@@ -14,15 +14,12 @@ Objective
 
 My journey working in the AI spectrum has lead me to develop a passion for cybersecurity, in specfic Offensive Security (ethical hacking).
 
-Skills
+|  Skills                                                                             | Associated Project                                                                                    |
+|-------------------------------------------------------------------------------------|-----------------------------------------                                                              |
+  Cybersecurity Analyst, IAM                                                                | <a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge/tree/main">Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge</a>|                                           
 
-Nmap
 
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
+
 Tools
 
 
@@ -165,7 +162,7 @@ Projects
 
 
 
--Tata Group - Cybersecurity Analyst Job Simulation (Forge)
+<a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge/tree/main">Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge</a>
 
 
 
