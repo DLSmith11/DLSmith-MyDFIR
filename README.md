@@ -23,10 +23,36 @@ My journey working in the AI spectrum has lead me to develop a passion for cyber
 
 
 Tools
+1. Nmap (Network Mapper)
+Purpose: Network discovery and vulnerability scanning.
+Usage: Nmap is used to discover hosts and services on a computer network, thus creating a network map. It can be used for port scanning, OS fingerprinting, and service version detection.
+Features:
+Port scanning
+OS detection
+Version detection
+Network inventory
+Scriptable (Nmap Scripting Engine)
+2. Metasploit
+Purpose: Exploit development and delivery framework.
+Usage: Metasploit is an advanced framework for creating, testing, and executing exploits. It comes with a massive database of pre-built exploits and payloads.
+Features:
+Automatic exploitation of known vulnerabilities
+Post-exploitation tools (privilege escalation, data collection)
+Payload generation and listener support
+Extensive exploit database
+Support for various platforms and protocols
+
 
 
 Network
-  
+1. TryHackMe
+Purpose: An online platform that offers guided penetration testing courses, challenges, and virtual environments.
+Features:
+Structured, beginner-to-expert learning path.
+Scenarios to simulate different attack vectors like web, network, and Active Directory exploitation.
+Hands-on practice with interactive environments.
+Lab environments for practical experience.
+<a href="https://tryhackme.com/r/room/pentestingfundamentals">Pentesting Fundamentals - TryHackMe</a> 
 
  
 SIEM
