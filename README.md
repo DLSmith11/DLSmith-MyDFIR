@@ -17,7 +17,7 @@ My journey working in the AI spectrum has lead me to develop a passion for cyber
 |  Skills                                                                             | Associated Project                                                                                    |
 |-------------------------------------------------------------------------------------|-----------------------------------------                                                              |
   Cybersecurity Analyst, IAM                                                          | <a href="https://github.com/DLSmith11/-Tata-Group---Cybersecurity-Analyst-Job-Simulation-Forge-" target="_blank">GitHub - Tata Group Cybersecurity Analyst Job Simulation</a>|
-
+  Microsoft Azure Detection Project
 
 
 
@@ -201,7 +201,7 @@ Projects
 
 
 
--SIEM Detection Lab
+-Elastic SIEM Detection Lab
 
 
 
