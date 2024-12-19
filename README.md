@@ -225,7 +225,7 @@ Projects
 
 
 
--Microsoft Azure Detection Project
+<a href="https://github.com/DLSmith11/Microsoft-Azure-Detection" target="_blank">Microsoft Azure Detection GitHub Repository</a>
 
 
 
