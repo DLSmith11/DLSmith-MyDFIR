@@ -12,7 +12,7 @@ I started in the techinical space about 3.5 years ago where I worked as an EOL t
 
 Objective
 
-My journey working in the AI spectrum has lead me to develop a passion for cybersecurity, in specfic Offensive Security (ethical hacking).
+My journey working in the AI spectrum has lead me to develop a passion for cybersecurity.
 
 |  Skills                                                                             | Associated Project                                                                                    |
 |-------------------------------------------------------------------------------------|-----------------------------------------                                                              |
