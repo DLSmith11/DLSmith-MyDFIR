@@ -8,7 +8,7 @@
 
 
 
-I started in the techinical space about 3.5 years ago where I worked as an EOL tester for EV batteries for Proterra, since then I moved into a more technical role with Latitude AI where I maintain autonomous vehicles, by installing the hardware techinology and software OS updates, calibrations and configurations on the test vehicles for Ford Motor company.
+I'm a Linux Admisitrtor currently with Latitude AI, where I maintain autonomous vehicles by installing the hardware, software OS and firmware updates using Linux CLI and Python CLI, for calibrations and configurations on the test vehicles for Ford Motor company.
 
 Objective
 
